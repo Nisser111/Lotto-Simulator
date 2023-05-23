@@ -1,0 +1,17 @@
+P:\Programowanie\Szkola\PAD\Lotto-simulation\bin\Debug\net6.0-windows\Lotto-simulation.exe
+P:\Programowanie\Szkola\PAD\Lotto-simulation\bin\Debug\net6.0-windows\Lotto-simulation.deps.json
+P:\Programowanie\Szkola\PAD\Lotto-simulation\bin\Debug\net6.0-windows\Lotto-simulation.runtimeconfig.json
+P:\Programowanie\Szkola\PAD\Lotto-simulation\bin\Debug\net6.0-windows\Lotto-simulation.dll
+P:\Programowanie\Szkola\PAD\Lotto-simulation\bin\Debug\net6.0-windows\Lotto-simulation.pdb
+P:\Programowanie\Szkola\PAD\Lotto-simulation\obj\Debug\net6.0-windows\Lotto-simulation.csproj.AssemblyReference.cache
+P:\Programowanie\Szkola\PAD\Lotto-simulation\obj\Debug\net6.0-windows\Lotto_simulation.Form1.resources
+P:\Programowanie\Szkola\PAD\Lotto-simulation\obj\Debug\net6.0-windows\Lotto-simulation.csproj.GenerateResource.cache
+P:\Programowanie\Szkola\PAD\Lotto-simulation\obj\Debug\net6.0-windows\Lotto-simulation.GeneratedMSBuildEditorConfig.editorconfig
+P:\Programowanie\Szkola\PAD\Lotto-simulation\obj\Debug\net6.0-windows\Lotto-simulation.AssemblyInfoInputs.cache
+P:\Programowanie\Szkola\PAD\Lotto-simulation\obj\Debug\net6.0-windows\Lotto-simulation.AssemblyInfo.cs
+P:\Programowanie\Szkola\PAD\Lotto-simulation\obj\Debug\net6.0-windows\Lotto-simulation.csproj.CoreCompileInputs.cache
+P:\Programowanie\Szkola\PAD\Lotto-simulation\obj\Debug\net6.0-windows\Lotto-simulation.dll
+P:\Programowanie\Szkola\PAD\Lotto-simulation\obj\Debug\net6.0-windows\refint\Lotto-simulation.dll
+P:\Programowanie\Szkola\PAD\Lotto-simulation\obj\Debug\net6.0-windows\Lotto-simulation.pdb
+P:\Programowanie\Szkola\PAD\Lotto-simulation\obj\Debug\net6.0-windows\Lotto-simulation.genruntimeconfig.cache
+P:\Programowanie\Szkola\PAD\Lotto-simulation\obj\Debug\net6.0-windows\ref\Lotto-simulation.dll
